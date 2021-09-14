@@ -1,6 +1,6 @@
 # Autocorrect
 
-Look like a professional
+Look like a professional writer
 
 ## Table of Contents
 
