@@ -14,4 +14,12 @@ This is why this application exists.
 
 ## Install
 
-These are the steps to setup your location
+These are the steps to setup your local environment to run this application.
+
+## Usage
+
+These are the steps to use the application or interact with it.
+
+### Any optional sections
+
+You Do
