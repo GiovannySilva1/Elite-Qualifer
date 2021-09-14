@@ -1,6 +1,6 @@
-# Title
+# Autocorrect
 
-Simple (or clever and funny?) description
+Look like a professional
 
 ## Table of Contents
 
@@ -9,8 +9,7 @@ Simple (or clever and funny?) description
 - [Usage](#usage)
 
 ## Background
-
-This is why this application exists.
+Is your grammar messing up the flow of your conversation, are you tired of losing points for bad grammar, are you tired of other people interpreting your writing in a different way. If you said yes to any of these then our autocorrect system can become your bestfriend.
 
 ## Install
 
